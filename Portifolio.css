@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.Text {
+    text-align: center;
+}
+.First{
+    margin-top: 15%;
+    margin-bottom: 3%;
+}
+.Second{
+    margin-bottom: 4%;
+}
+.Corpo{
+    text-align: center;
+
+}
+.Imagem{
+    height: 70%;
+    width: 70%;
+    margin-top: 7%;
+    
+}
+.Back-Side{
+    background-color: aquamarine;
+    height: 600px;
+}
+.Principal{
+    font-weight: bold;   
+    padding-top: 10%;
+}
+.About{
+    margin-top: 3%;
+}
+.Tables{
+    margin-top: -10%;
+}
