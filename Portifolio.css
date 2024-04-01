@@ -25,7 +25,7 @@ body{
 }
 .Back-Side{
     background-color: aquamarine;
-    height: 600px;
+    height: 700px;
 }
 .Principal{
     font-weight: bold;   
@@ -36,4 +36,22 @@ body{
 }
 .Tables{
     margin-top: -10%;
+    border: 1px solid black; 
+    border-collapse: collapse;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+    background-color: white;
 }
+.round-icon {
+    background-color: rgb(117, 16, 247);
+    border-radius: 50%; /* Torna o ícone redondo */
+    padding: 10px; /* Adiciona um pouco de espaço ao redor do ícone */
+  }
+.Ti-1{
+    margin: 10%;
+}
+.col-divider {
+    border-right: 1px solid black; /* Define uma borda direita */
+    padding-right: 10px; /* Adiciona um pouco de espaço entre a borda e o conteúdo */
+  }
